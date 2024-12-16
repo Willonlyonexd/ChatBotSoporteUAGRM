@@ -1,0 +1,13 @@
+*Selecciona Opción:*
+1️⃣- Recupera Contraseña
+2️⃣- Cambiar Contraseña
+3️⃣- Guardar copia de seguridad del curso
+4️⃣- Creación de grupo de la materia + chat grupal
+5️⃣- Creacion de foros de aviso
+6️⃣- Manual Docente
+7️⃣- Manual Diseño Formativo 2024
+8️⃣- Manual Diseño Técnico 2024
+9️⃣- Manual Diseño Gráfico 2024
+🔟- Solicitar soporte en linea
+
+0️⃣- Salir

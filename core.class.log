@@ -1,0 +1,802 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: '6BA9976D9E88F4D12259FF4F95398EEA',
+    participant: undefined
+  },
+  messageTimestamp: 1733839913,
+  pushName: 'Will |•|',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: 'EA1AA6643ED02B9DE1F16AE073B17A10',
+    participant: undefined
+  },
+  messageTimestamp: 1733839913,
+  pushName: 'Will |•|',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: '089233056AC08DFC81314A9530465651',
+    participant: undefined
+  },
+  messageTimestamp: 1733839914,
+  pushName: 'Will |•|',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: 'F6048F978DBA5A4F800F0E82FF677707',
+    participant: undefined
+  },
+  messageTimestamp: 1733839914,
+  pushName: 'Will |•|',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: '11B14FC1087E583B270ED072C54A995C',
+    participant: undefined
+  },
+  messageTimestamp: 1733839915,
+  pushName: 'Will |•|',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: 'A758E3592A1B31B7763642CD82032260',
+    participant: undefined
+  },
+  messageTimestamp: 1733839915,
+  pushName: 'Will |•|',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: '26BCA732A382BE7BAB5F092BF7CDC09F',
+    participant: undefined
+  },
+  messageTimestamp: 1733839916,
+  pushName: 'Will |•|',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: 'AD65F801651471484BC8079A1AE16ACF',
+    participant: undefined
+  },
+  messageTimestamp: 1733839916,
+  pushName: 'Will |•|',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: '75EC217F33E8B84C119B20CFDAE9ECC2',
+    participant: undefined
+  },
+  messageTimestamp: 1733839917,
+  pushName: 'Will |•|',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: '8609E6E2F2B83D24CD35A256B14C647E',
+    participant: undefined
+  },
+  messageTimestamp: 1733839917,
+  pushName: 'Will |•|',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: 'F42236FD20CF74D0F264E0CE34093B7D',
+    participant: undefined
+  },
+  messageTimestamp: 1733839918,
+  pushName: 'Will |•|',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: '7E8FC82459B7B4BF8D2C9A79EE9479C6',
+    participant: undefined
+  },
+  messageTimestamp: 1733839918,
+  pushName: 'Will |•|',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: '8EA445056FDEFE600A705DB10BE6270B',
+    participant: undefined
+  },
+  messageTimestamp: 1733839919,
+  pushName: 'Will |•|',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: 'CD4AA516D9C769C556F1DEB3B7719009',
+    participant: undefined
+  },
+  messageTimestamp: 1733839919,
+  pushName: 'Will |•|',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: 'F4169F90C7B85B66441963BE0820B05D',
+    participant: undefined
+  },
+  messageTimestamp: 1733839920,
+  pushName: 'Will |•|',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: 'CDBBBA0D43BB22C77D70D36B3CFF9C02',
+    participant: undefined
+  },
+  messageTimestamp: 1733839920,
+  pushName: 'Will |•|',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: '6BA9976D9E88F4D12259FF4F95398EEA',
+    participant: undefined
+  },
+  messageTimestamp: 1733839921,
+  pushName: 'Will |•|',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '..',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Will |•|',
+  body: '..',
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: 'EA1AA6643ED02B9DE1F16AE073B17A10',
+    participant: undefined
+  },
+  messageTimestamp: 1733839921,
+  pushName: 'Will |•|',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '.',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Will |•|',
+  body: '.',
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: '089233056AC08DFC81314A9530465651',
+    participant: undefined
+  },
+  messageTimestamp: 1733839921,
+  pushName: 'Will |•|',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '.',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Will |•|',
+  body: '.',
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: 'F6048F978DBA5A4F800F0E82FF677707',
+    participant: undefined
+  },
+  messageTimestamp: 1733839922,
+  pushName: 'Will |•|',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Kdkkdd',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Will |•|',
+  body: 'Kdkkdd',
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: '11B14FC1087E583B270ED072C54A995C',
+    participant: undefined
+  },
+  messageTimestamp: 1733839923,
+  pushName: 'Will |•|',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '...  .',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Will |•|',
+  body: '...  .',
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: 'A758E3592A1B31B7763642CD82032260',
+    participant: undefined
+  },
+  messageTimestamp: 1733839923,
+  pushName: 'Will |•|',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '.',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Will |•|',
+  body: '.',
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: '26BCA732A382BE7BAB5F092BF7CDC09F',
+    participant: undefined
+  },
+  messageTimestamp: 1733839924,
+  pushName: 'Will |•|',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '....',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Will |•|',
+  body: '....',
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: 'AD65F801651471484BC8079A1AE16ACF',
+    participant: undefined
+  },
+  messageTimestamp: 1733839924,
+  pushName: 'Will |•|',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '...',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Will |•|',
+  body: '...',
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: '75EC217F33E8B84C119B20CFDAE9ECC2',
+    participant: undefined
+  },
+  messageTimestamp: 1733839924,
+  pushName: 'Will |•|',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '...',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Will |•|',
+  body: '...',
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: '8609E6E2F2B83D24CD35A256B14C647E',
+    participant: undefined
+  },
+  messageTimestamp: 1733839925,
+  pushName: 'Will |•|',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '.',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Will |•|',
+  body: '.',
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: 'F42236FD20CF74D0F264E0CE34093B7D',
+    participant: undefined
+  },
+  messageTimestamp: 1733839925,
+  pushName: 'Will |•|',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '.....',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Will |•|',
+  body: '.....',
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: '7E8FC82459B7B4BF8D2C9A79EE9479C6',
+    participant: undefined
+  },
+  messageTimestamp: 1733839926,
+  pushName: 'Will |•|',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '.....',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Will |•|',
+  body: '.....',
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: '8EA445056FDEFE600A705DB10BE6270B',
+    participant: undefined
+  },
+  messageTimestamp: 1733839926,
+  pushName: 'Will |•|',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '...',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Will |•|',
+  body: '...',
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: 'CD4AA516D9C769C556F1DEB3B7719009',
+    participant: undefined
+  },
+  messageTimestamp: 1733839927,
+  pushName: 'Will |•|',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '.....',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Will |•|',
+  body: '.....',
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: 'F4169F90C7B85B66441963BE0820B05D',
+    participant: undefined
+  },
+  messageTimestamp: 1733839927,
+  pushName: 'Will |•|',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '......',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Will |•|',
+  body: '......',
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: 'CDBBBA0D43BB22C77D70D36B3CFF9C02',
+    participant: undefined
+  },
+  messageTimestamp: 1733839928,
+  pushName: 'Will |•|',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Will |•|',
+  body: 'Hola',
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: '03E28708809AB9FEED6D012708F57FF4',
+    participant: undefined
+  },
+  messageTimestamp: 1733839937,
+  pushName: 'Will |•|',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'test',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Will |•|',
+  body: 'test',
+  from: '59162200482'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_17233c1b-3dcc-4b74-bdd3-402a79996222',
+  keyword: 'key_f93ed211-512a-4a36-b425-0354e87555ab',
+  answer: '*Selecciona plataforma*:\r\n' +
+    '\r\n' +
+    '1️⃣- Presencial\r\n' +
+    '2️⃣- Virtual\r\n' +
+    '3️⃣- Extracurricular\r\n' +
+    '4️⃣- Construcción\r\n' +
+    '\r\n' +
+    '0️⃣- Salir',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '67e824ebd741767ad4f9ae8e902fe88d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: 'F2C553267DBEEBC398444FC1BD3CA8B4',
+    participant: undefined
+  },
+  messageTimestamp: 1733839943,
+  pushName: 'Will |•|',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '2',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: '1F56CE8E66E257A743B055D14F54952D',
+    participant: undefined
+  },
+  messageTimestamp: 1733839946,
+  pushName: 'Will |•|',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '59162200482'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162200482@s.whatsapp.net',
+    fromMe: false,
+    id: 'A2E5FB4F11C461833B92C3A87E5B06CE',
+    participant: undefined
+  },
+  messageTimestamp: 1733839950,
+  pushName: 'Will |•|',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '59162200482'
+}

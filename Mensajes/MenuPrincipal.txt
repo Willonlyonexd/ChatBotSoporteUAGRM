@@ -1,0 +1,8 @@
+*Selecciona plataforma*:
+
+1️⃣- Presencial
+2️⃣- Virtual
+3️⃣- Extracurricular
+4️⃣- Construcción
+
+0️⃣- Salir

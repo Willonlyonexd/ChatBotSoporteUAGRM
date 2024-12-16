@@ -1,0 +1,5 @@
+*>>>>>>>[-Virtual-]<<<<<<*
+
+*Selecciona tipo de usuario*:
+1️⃣- Administrativo
+0️⃣- Salir

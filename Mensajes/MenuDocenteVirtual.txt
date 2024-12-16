@@ -1,0 +1,9 @@
+*Selecciona Opción:*
+1️⃣- Problemas al ingresar a la plataforma
+2️⃣- Problemas al recuperar Contraseña
+3️⃣- Guardar copia de seguridad del curso
+4️⃣- Descargar boleta de calificaciones
+5️⃣- Creación de grupo de la materia + chat grupal
+6️⃣- Creacion de foros de aviso
+7️⃣- Solicitar soporte en linea
+0️⃣- Salir

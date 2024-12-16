@@ -1,0 +1,6 @@
+*Selecciona Opción:*
+1️⃣- Problemas al ingresar a la plataforma
+2️⃣- Problemas al recuperar Contraseña
+3️⃣- Solicitar soporte en linea
+
+0️⃣- Salir

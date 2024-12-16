@@ -1,0 +1,6 @@
+*>>>>>>>[-Construccion-]<<<<<<*
+
+*Selecciona tipo de usuario*:
+1️⃣- Docente
+2️⃣- Administrativo
+0️⃣- Salir  

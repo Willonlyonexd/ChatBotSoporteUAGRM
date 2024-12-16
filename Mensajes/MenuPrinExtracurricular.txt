@@ -1,0 +1,6 @@
+*>>>>>>>[-Extracurricular-]<<<<<<*
+
+*Selecciona tipo de usuario*:
+1️⃣- Estudiante
+2️⃣- Docente
+0️⃣- Salir
