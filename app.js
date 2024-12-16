@@ -793,7 +793,7 @@ const flowAdministrativo = addKeyword(EVENTS.ACTION)
 
 
 
-const flowWelcome = addKeyword('Iniciar', 'iniciar', 'empezar')
+const flowWelcome = addKeyword('hola','Iniciar', 'iniciar', 'empezar')
     .addAnswer('👋 ¡Bienvenid@ al Chatbot de Soporte *DEDTE*')
     .addAnswer('Para comenzar, escribe *"menu"* y te mostraremos las opciones disponibles. Estamos aquí para ayudarte con cualquier consulta o problema.')
 
