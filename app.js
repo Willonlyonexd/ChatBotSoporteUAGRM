@@ -797,7 +797,7 @@ const flowWelcome = addKeyword('hola','Iniciar', 'iniciar', 'empezar')
     .addAnswer('👋 ¡Bienvenid@ al Chatbot de Soporte *DEDTE*')
     .addAnswer('Para comenzar, escribe *"menu"* y te mostraremos las opciones disponibles. Estamos aquí para ayudarte con cualquier consulta o problema.')
 
-const menuFlow = addKeyword(['Menu']).addAnswer(
+const menuFlow = addKeyword(['Menu4']).addAnswer(
     menu,
     { capture: true },
     async (ctx, { gotoFlow, fallback, flowDynamic }) => {
@@ -906,7 +906,7 @@ const flowConstruccion = addKeyword(EVENTS.ACTION)
             }
         });
 
-const MenuPrincipalFlow = addKeyword(['test']).addAnswer(
+const MenuPrincipalFlow = addKeyword(['menu']).addAnswer(
     menuPrincipal,
     { capture: true },
     async (ctx, { gotoFlow, fallback, flowDynamic }) => {
